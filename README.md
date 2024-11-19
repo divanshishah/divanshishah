@@ -37,7 +37,7 @@ I love solving complex problems, contributing to innovative projects, and making
 📫 How to Reach Me
 
 - **Email**: shahdivanshi@gmail.com
-- **LinkedIn**: [](https://www.linkedin.com/in/divanshi-shah-72707520b/)
+- **LinkedIn**: [https://www.linkedin.com/in/divanshi-shah-72707520b/](https://www.linkedin.com/in/divanshi-shah-72707520b/)
 
 ---
 😄 Pronouns
@@ -46,7 +46,7 @@ She/Her
 
 ---
 
-#⚡ Fun Fact
+⚡ Fun Fact
 
 I'm a travel enthusiast and a dancer! When I'm not coding, you might find me exploring new destinations or hitting the dance floor.
 
